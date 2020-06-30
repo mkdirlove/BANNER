@@ -10,4 +10,4 @@ Useless TERMUX banner maker powered by Toilet.
 `$ bash banners.sh`
 #
 # PREVIEW
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/BANNERS/blob/master/1.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/BANNER/blob/master/1.png)
